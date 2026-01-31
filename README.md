@@ -1,13 +1,25 @@
-## Hi there 👋
+## T here 👋
 
-I’m **Tiffany** (though I prefer **Ahny**).
+Backend Intern @ [Risevest](https://risevest.com/)  
+Backend Engineer @ [Applai](https://applaigrants.com/)
 
-I’m a **Backend Developer** with experience in **Node.js**, **NestJS**, and **Django**. I’ve also explored the field of **AI**, working on projects in **Deep Learning** and **Computer Vision**.
+Occasionally, I dabble in AI and Frontend too ✨
 
-* 🚀 I am **currently learning** the **React** framework to better showcase my Node.js/NestJS backend projects.
-* 💼 I am **working on** a private project under the [RiseVest](https://risevest.com/) organization.
-* 🛠️ I recently **built** a **Smart Job Matching API** powered by **GPT-4.1**, BullMQ, and RapidAPI — [check it out here](https://github.com/Ahny678/IntelliScout).
-* 🤝 I'm **looking to collaborate** on **Full-Stack projects** as a backend developer. I’m experienced in OpenAPI Swagger documentation — [see a demo video](https://www.youtube.com/watch?v=9aTOhHzKJng) of my E-Diary [API project](https://github.com/Ahny678/E-Chronicles).
+---
+
+### 🚀 Projects
+
+- **[PixelHive API Documentation](https://pixel-hive.onrender.com/api)**  
+  My most recent personal backend project.
+
+- **Autonomous Vehicle** 🤖  
+  Built with JavaScript, C++, and my tears. Check out the demo [here](https://www.youtube.com/shorts/fA1U56vDObM).
+
+- **[Ink & Keys](https://ink-and-keys.vercel.app/)** ✍️  
+  A note-taking / plotting / writing fullstack app with AI and OCR features.  
+  - Demo: [here](https://drive.google.com/file/d/1mbW-lZnAi0LzrfUw5yHWtTzUiTxejyin/view?usp=drive_link)  
+  - App: [here](https://ink-and-keys.vercel.app/)
+
  
 
  
